@@ -921,7 +921,6 @@ body {
     width: 75%;
     height: 2px;
     background-color: var(--neutral-100);
-    border-radius: var(--radius-circle);
   }
   .header .container .navbar-wrapper {
     gap: 24px;
