@@ -1052,7 +1052,7 @@ body {
     --lh-headline-large: 72px;
   }
   .container {
-    max-width: 1460px;
+    max-width: 1200px;
   }
   .header .container .nav-toggle-btn {
     display: none;
